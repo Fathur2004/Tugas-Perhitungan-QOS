@@ -22,7 +22,7 @@
 <br>5. Setelah selesai, mengklik ikon kotak merah untuk stop capturing paket <br>
 <img src="https://github.com/user-attachments/assets/f4c16f29-43ba-46c2-bbfb-b8e0634c5e76" width="300">
 
-<br>6. Selanjutnya tekan Statistics > Caputre File Properties, untuk melihat properties dari packet capture yg dilakukan
+<br>6. Selanjutnya tekan Statistics > Caputre File Properties, untuk melihat properties dari packet capture yg dilakukan <br>
 <img src="https://github.com/user-attachments/assets/2952a35e-3fa7-41c1-8c7d-b97128de9865" width="300">
 
 <br>7. Melihat packet lost dengan mengetik tcp.analysis.lost_segment<br>
@@ -33,34 +33,32 @@
 
 
 <br>9. Perhitungan Throughput, Packet Loss, Delay, dan Jitter.<br>
-<img src="https://github.com/user-attachments/assets/f28d0eed-6869-402b-b927-a49efec3aa87" width="300">
+<img src="https://github.com/user-attachments/assets/ddeb4788-6e8d-41d9-9f87-feb8d9aa7670" width="300">
 
 **Througput:**<br>
 throughtput:<br>
 jumlah byte : time span = hasil byte <br>
-9067431 : 106.835 = 84,87322506669163 b x 8 = 678,985800533533 k<br><br>
+143127 : 195.571 = 731.8416329619422 b x 8 = 5.854 <br><br>
 **Packet Loss:**
 **Packet dikirim Loss:**<br>
 packet loss :<br>
 (((paket dikirim - paket diterima ) : paket dikirim ) x 100)<br>
-= ( 8579 - 8574 ) : 8579) x 100<br>
-= ( 5 : 8579 ) x 100<br>
-= 0,05 ( 0,1)<br><br>
+= ( 822 - 820 ) : 822) x 100<br>
+= ( 2 : 822 ) x 100<br>
+= 0,2 <br><br>
 **Delay:**
 Total **Delay:**<br>
 delay <br>
-total delay :  106,834737 s<br>
-rata rata delay : 0,012453052 s x 1000 =  12,453052 ms<br><br>
+total delay :  195,571234 s<br>
+rata rata delay : 0,237921209 s x 1000 =  237,921209 ms<br><br>
 **Jitter:**
 Total **Jitter:** <br>
 jitter:<br>
-total jitter  : -1,08761 s<br>
-rata rata jitter : -0,000126776 s x 1000 = -0,126776 ms
+total jitter  : 2,058627 s<br>
+rata rata jitter : 0,002504412 s x 1000 = 2,504412 ms
 <br><br>
-<br>10. Setelah mendapatkan hasil perhitungan, selanjutnya ialah mengisi tabel indeks yang didapatkandari pengukuran QoS.
-<img src="https://github.com/user-attachments/assets/279ff601-5e82-4fe8-9600-a49bef1d3488" Setelah width="300">
-<br>
-mendapatkan hasil perhitungan, selanjutnya ialah mengisi tabel indeks yang didapatkandari pengukuran QoS.
+<br>10.
+mendapatkan hasil perhitungan, selanjutnya ialah mengisi tabel yang didapatkan dari pengukuran QoS.
 <br>
 <img src="https://github.com/user-attachments/assets/f28d0eed-6869-402b-b927-a49efec3aa87" width="300">
 <br> <br>**KESIMPULAN**
