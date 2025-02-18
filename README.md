@@ -12,11 +12,11 @@
 <br>1. Pastikan terhubung pada internet
 
 <br>2. Buka aplikasi wireshark, lalu pilih wifi <br>
-<img src="https://github.com/user-attachments/assets/caf36c1a-92eb-4cd1-87fd-acd142e7afa7" width="300">
+<img src="https://github.com/user-attachments/assets/b2df0f6b-3d42-440e-b5ac-402aa2ee4ab4" width="300">
 
 <br>3. Jalankan wireshark untuk capture packet
 
-<img src="https://github.com/user-attachments/assets/6be627eb-665a-4f38-81f3-597b5f4d5c50" width="300">
+<img src="https://github.com/user-attachments/assets/825efd1d-056e-477d-b892-33e7dfc3a47b" width="300">
 
 <br>4. Selanjutnya melakukan kegiatan dilaptop seperti mendownload gambar dan menonton Youtube.
 <br>5. Setelah selesai, mengklik ikon kotak merah untuk stop capturing paket <br>
@@ -26,10 +26,10 @@
 <img src="https://github.com/user-attachments/assets/2952a35e-3fa7-41c1-8c7d-b97128de9865" width="300">
 
 <br>7. Melihat packet lost dengan mengetik tcp.analysis.lost_segment<br>
-<img src="https://github.com/user-attachments/assets/14398434-5c85-4365-8700-ea17a0038ad7" width="300">
+<img src="https://github.com/user-attachments/assets/fd4d7dc2-21f0-45e8-91e5-bff0a4bfe26f" width="300">
 
-<br>8. Perhatikan bagian statics pada Properties untuk melakukan perhitungan Throughput, Packet Loss, Delay, dan Jitter.
-<img src="https://github.com/user-attachments/assets/ab6a0309-fb99-4a70-8957-fa46f809bba4" width="300">
+<br>8. Perhatikan bagian statics pada Properties untuk melakukan perhitungan Throughput, Packet Loss, Delay, dan Jitter.<br>
+<img src="https://github.com/user-attachments/assets/a87868f8-2175-4878-a8da-77c31f40c0d2" width="300">
 
 
 <br>9. Perhitungan Throughput, Packet Loss, Delay, dan Jitter.<br>
