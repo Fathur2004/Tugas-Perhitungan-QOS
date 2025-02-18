@@ -60,7 +60,7 @@ rata rata jitter : 0,002504412 s x 1000 = 2,504412 ms
 <br>10.
 mendapatkan hasil perhitungan, selanjutnya ialah mengisi tabel yang didapatkan dari pengukuran QoS.
 <br>
-<img src="https://github.com/user-attachments/assets/f28d0eed-6869-402b-b927-a49efec3aa87" width="300">
+<img src="https://github.com/user-attachments/assets/ddeb4788-6e8d-41d9-9f87-feb8d9aa7670" width="300">
 <br> <br>**KESIMPULAN**
 <br> Pada **KESIMPULAN** perhitungan QoS ini hasil Throughput, Packet Loss, dan Delay masuk kategori Sangat Bagus, yang menunjukkan jaringan cepat dan stabil dalam pengiriman data. Jitter masuk kategori Buruk, yang berarti ada variasi waktu antar paket yang sangat tinggi, berpotensi menyebabkan gangguan dalam komunikasi real-time. Jadi, jaringan ini sangat baik dalam kecepatan dan kestabilan latensi, tetapi jitter yang tinggi bisa menjadi masalah untuk aplikasi real-time.
 <br> Pada perhitungan QoS ini hasil Throughput, Packet Loss, dan Delay masuk kategori Sangat Bagus, yang menunjukkan jaringan cepat dan stabil dalam pengiriman data. Jitter masuk kategori Buruk, yang berarti ada variasi waktu antar paket yang sangat tinggi, berpotensi menyebabkan gangguan dalam komunikasi real-time. Jadi, jaringan ini sangat baik dalam kecepatan dan kestabilan latensi, tetapi jitter yang tinggi bisa menjadi masalah untuk aplikasi real-time.
